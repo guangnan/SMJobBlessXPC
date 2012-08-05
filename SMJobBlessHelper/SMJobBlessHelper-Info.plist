@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>com.apple.bsd.SMJobBlessHelper</string>
+	<string>com.apple.bsd.SMJobBlessHelper3</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>SMJobBlessHelper</string>
+	<string>SMJobBlessHelper3</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
 	<key>SMAuthorizedClients</key>
 	<array>
-		<string>identifier com.apple.bsd.SMJobBlessApp and certificate leaf[subject.CN] = &quot;Mac Developer: Nathan de Vries (T3RB9JQ8KZ)&quot;</string>
+		<string>identifier com.apple.bsd.SMJobBlessApp and certificate leaf[subject.CN] = &quot;Ludovic Delaveau&quot;</string>
 	</array>
 </dict>
 </plist>

@@ -22,8 +22,8 @@
 	<string>NSApplication</string>
 	<key>SMPrivilegedExecutables</key>
 	<dict>
-		<key>com.apple.bsd.SMJobBlessHelper</key>
-		<string>identifier com.apple.bsd.SMJobBlessHelper and certificate leaf[subject.CN] = &quot;Mac Developer: Nathan de Vries (T3RB9JQ8KZ)&quot;</string>
+		<key>com.apple.bsd.SMJobBlessHelper3</key>
+		<string>identifier com.apple.bsd.SMJobBlessHelper3 and certificate leaf[subject.CN] = "Ludovic Delaveau"</string>
 	</dict>
 </dict>
 </plist>
